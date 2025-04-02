@@ -70,7 +70,7 @@ db = SqliteDatabase('customers.db')
 #   email: CharField
 #   birth_year: IntegerField
 #   state: CharField
-# After you 
+
 
 '''
 RULES FOR peewee MODELS

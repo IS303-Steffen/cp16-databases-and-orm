@@ -69,7 +69,7 @@ it is more justifiable.
 #   email: CharField
 #   birth_year: IntegerField
 #   state: CharField
-# After you 
+
 
 '''
 RULES FOR peewee MODELS
@@ -99,12 +99,12 @@ RULES FOR peewee MODELS
 # class inside of it.
 
 
+
 # 5. CREATE A CUSTOMER USING Customer.create()
 # Make a row in your Customer database using Customer.create(). You need to
 # provide the field names and the values for that field (e.g. name="John") for
 # each field. Store the result in a variable, and then try printing out the
 # name of the object that it gave you.
-
 
 
 '''
